@@ -1,7 +1,7 @@
 # When user calls a function, an array of random length and random values is now the array
 # 
 
-def randomrandom(ar):
+def randomrandomsort(ar):
     import random
 
     for i in range(len(ar)-1):
@@ -17,7 +17,7 @@ def randomrandom(ar):
 
 def main():
     array = [1,2,3,4,5]
-    randomrandom(array)
+    randomrandomsort(array)
     print(array)
 
 
