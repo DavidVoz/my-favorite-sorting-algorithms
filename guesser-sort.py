@@ -1,5 +1,4 @@
-# When the user asks to have to input a correct random number in order for the program to work
-
+# When the user requests an array to be sorted, it asks for an input of a correct random number in order for the sort to happen
 
 def guessingsort(ar):
     import random
